@@ -1,0 +1,1 @@
+# docker-hardened-system-packages-guide
